@@ -1,0 +1,3 @@
+Best Validation Accuracy: 0.9026
+Train Loss: 0.2015
+Validation Loss: 0.3535
